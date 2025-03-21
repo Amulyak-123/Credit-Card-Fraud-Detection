@@ -11,6 +11,7 @@
 
 ## 📌 Dataset
 - 📂 **Source:** [Kaggle Credit Card Fraud Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+- Add this dataset into the Data folder
 - **Features:**
   - `Time`: Seconds since first transaction
   - `Amount`: Transaction amount (scaled)
